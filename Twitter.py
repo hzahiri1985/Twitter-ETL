@@ -48,6 +48,3 @@ def run_twitter_etl():
 
 
 
-
-    '''for tweet in tweets:
-    print(tweet.txt)'''
